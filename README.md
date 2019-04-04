@@ -189,6 +189,25 @@ Now comes the time to interact with existing nations to find a place to build a 
 The ideal nation-state partner would allow the city to operate independently, making its own decisions about education, healthcare, currencies, education, criminal justice, etc. The city would require from the nation-state military protection. The city could provide tax income to the nation-state.
 
 
+Get Involved
+------------
 
+To help this project along, you can do a few things:
 
+### 1. Critique
 
+Right now, this is an idea. Not an organization or company. Spreading to new minds is the best thing that can happen to ideas.
+
+Take it in. Let it morph in your head and come out in new ways.
+
+And respond here! Click the "issues" tab up above and leave feedback, or edit this file directly and send the suggestions.
+
+### 2. Form your own organization or startup
+
+If you see any part of this that you could start working on now, start. Contact us to tell us about it, or don't.
+
+Maybe you could make a new food automation startup. Maybe you can start making new kinds of 3D printing robots. Maybe you can start experimenting with hemp-based industrial materials. Maybe you can co-own your own food sources with your community and experiment with post-scarcity economics. Do it.
+
+### 3. Help us form some sort of official entity
+
+We don't know what that might look like, and we're open to ideas. Start a conversation in the Issues tab up above.
